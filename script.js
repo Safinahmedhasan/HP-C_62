@@ -3,6 +3,13 @@
 const sum = 9+0;
 console.log(sum);
 
+
+FirstName = "Salma" // Pascal Case
+
+firstName = "salma" // camel case
+
+firstname = "salma" //Snake case
+
 // alert(sum)
 // document.getElementById('text').innerHTML = sum
 
@@ -28,5 +35,8 @@ Comment
 !red
 !red
 */
+
+
+
 
 
