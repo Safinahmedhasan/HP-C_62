@@ -1,6 +1,6 @@
 
 
-const sum = 9+0;
+const sum = 9+100;
 console.log(sum);
 
 
