@@ -8,17 +8,17 @@ var firstName = "ALLU"
 var roll = "109"
 var isHappy = "false"
 
-console.log(typeof isHappy);
-console.log(typeof roll);
+// console.log(typeof isHappy);
+// console.log(typeof roll);
 
 var alu = 70;
-var potol = parseFloat("10.90");
-
-var total = alu + potol;
-
-
-var nam = "Nuri Geche ghuri uraite , amra aichi muri khayte "
-
-// console.log(total);
+var potol = parseFloat(10.9);
 
 console.log(potol);
+
+
+var a = 0.1;    
+var b = 0.3;
+var total = a * b;
+console.log(total.toFixed(1));
+

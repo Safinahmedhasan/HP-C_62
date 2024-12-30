@@ -1,20 +1,11 @@
-/*
-* Variable
-!var
-!let
-!const
+// var b = 10;
+// var b = 20 
+// b = 30;
 
 
-?var
-*/ 
+let a = 10 ;
+a = 20; 
+a = 30
 
-var age = 10
-age = 20
 
-var firstName = "lilu"
-var FirstName = "nochimon"
-// FirstName = "lalu"
-
-console.log(age);
-
-console.log(FirstName);
+// const c = 10; 
