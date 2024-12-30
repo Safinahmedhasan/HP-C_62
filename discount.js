@@ -7,6 +7,7 @@ if(addToCart >= 500){
     console.log(pay);
 }
 else if ( addToCart >= 250){
+    // 5% discount
     const discount = addToCart * 5 / 100;
     const pay = addToCart - discount;
     console.log(pay);
